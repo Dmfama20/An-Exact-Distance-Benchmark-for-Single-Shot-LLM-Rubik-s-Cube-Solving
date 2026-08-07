@@ -1,0 +1,38 @@
+This repository uses two licenses:
+
+1. CODE — MIT License (below): everything under scaffold/, benchmarks/,
+   scripts/, tests/, and the top-level Python entry points.
+
+2. DATA — Creative Commons Attribution 4.0 International (CC BY 4.0):
+   the instance manifests, schedules, baselines, and result data under
+   instances/, data/, results_power/, and any released results_* /
+   logs artefacts. See LICENSE-DATA for the notice; full legal code:
+   https://creativecommons.org/licenses/by/4.0/legalcode
+
+---------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2026 The Benchmark Authors
+[NOTE: replace "The Benchmark Authors" with the real author(s) /
+institution for the de-anonymized public release; keep the placeholder
+in the double-blind review archive.]
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

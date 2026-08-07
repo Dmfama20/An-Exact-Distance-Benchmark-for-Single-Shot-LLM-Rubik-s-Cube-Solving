@@ -1,0 +1,6 @@
+# Core
+magiccube==1.2.0          # cube state + deterministic verification
+openai==2.8.1             # OpenRouter / Ollama (OpenAI-compatible client)
+
+# Optional: direct Anthropic API backend
+anthropic==0.74.1

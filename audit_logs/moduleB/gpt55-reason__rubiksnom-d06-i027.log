@@ -1,0 +1,21 @@
+Test 27 — nominal scramble length=6
+Verified optimal distance d*=5
+Instance: rubiksnom-d06-i027
+Model: openai/gpt-5.5-20260423
+Parse mode: none
+======================================================================
+
+--- Initial cube state (JSON, for exact replay) ---
+{"up": [["O", "O", "W"], ["W", "W", "B"], ["B", "Y", "Y"]], "left": [["Y", "B", "R"], ["Y", "O", "R"], ["B", "O", "G"]], "front": [["Y", "G", "R"], ["Y", "G", "R"], ["O", "O", "R"]], "right": [["G", "R", "B"], ["G", "R", "O"], ["G", "G", "O"]], "back": [["O", "B", "B"], ["G", "B", "B"], ["G", "W", "W"]], "down": [["W", "W", "W"], ["Y", "Y", "W"], ["R", "R", "Y"]]}
+
+--- Model response ---
+Under the standard facelet orientation, this cube state is not physically solvable: the corner permutation parity and edge permutation parity do not match, which cannot occur on a legal 3×3×3 cube.
+
+No legal solution exists.
+
+--- Parsed moves ---
+(none)
+
+======================================================================
+Success: False
+Time: 91.9s

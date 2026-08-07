@@ -1,0 +1,40 @@
+{
+ "timestamp_utc": "2026-07-30T12:59:58+00:00",
+ "model": "openai/gpt-5.5-20260423",
+ "temperature": null,
+ "provider_order": [
+  "openai"
+ ],
+ "max_tokens": 32000,
+ "base_effort": "none",
+ "reason_effort": "medium",
+ "observed": {
+  "base": {
+   "reasoning_tokens": [
+    0,
+    0,
+    0
+   ],
+   "snapshots": [
+    "openai/gpt-5.5"
+   ],
+   "providers": [
+    "OpenAI"
+   ]
+  },
+  "reason": {
+   "reasoning_tokens": [
+    205,
+    222,
+    200
+   ],
+   "snapshots": [
+    "openai/gpt-5.5"
+   ],
+   "providers": [
+    "OpenAI"
+   ]
+  }
+ },
+ "verdict": "ok"
+}

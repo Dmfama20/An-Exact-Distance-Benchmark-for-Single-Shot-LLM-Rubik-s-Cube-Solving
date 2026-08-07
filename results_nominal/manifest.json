@@ -1,0 +1,148 @@
+{
+ "generated_utc": "2026-08-03T03:54:06+00:00",
+ "runs_dir": "logs/nominal_runs",
+ "inputs": [
+  {
+   "file": "logs/nominal_runs/gpt55-base__rubiks__dstar1__batch_metrics.csv",
+   "sha256": "57c292767230c8591a58da1980b60d29931c5731adcc139f8a28e8a030499d56",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-base__rubiks__dstar2__batch_metrics.csv",
+   "sha256": "cb8c6263f3f97cd44da132367bd7fe690faa4aae99fd354158b65958f9ba2ca0",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-base__rubiks__dstar3__batch_metrics.csv",
+   "sha256": "f99ff1221eb2d74390f8e2ac171d3a0b879e418ebd7e97c6ca85289fc056b891",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-base__rubiks__dstar4__batch_metrics.csv",
+   "sha256": "fd9da04248baa441ebdff6f9a0f1c55f4af9c01de77072da28033ba93e550215",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-base__rubiks__dstar5__batch_metrics.csv",
+   "sha256": "9b2fa729d76e4af419bebb0d714402ee8f0b676e8feb7f2a0d195a1a4195de0d",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-base__rubiks__dstar6__batch_metrics.csv",
+   "sha256": "ee10109846432b79f89854e48edf541de5882d70c7f38aab100fcab99133dbee",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-base__rubiks__dstar7__batch_metrics.csv",
+   "sha256": "491e53b6adfc52cb5147a11b0710f3ab68ebfaabd3428987ff19dc5dd2e7bf24",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-base__rubiks__dstar8__batch_metrics.csv",
+   "sha256": "243a00bd09378ce33c094912dc61765d724fc34100b10fe3fcca16bcc4423416",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-reason__rubiks__dstar1__batch_metrics.csv",
+   "sha256": "c4ab14a0cf252e61872f6a84c6a7161f9787bfb99245f474483f6c0bf2b9aba8",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-reason__rubiks__dstar2__batch_metrics.csv",
+   "sha256": "85f7c837ecfa4f9c0fc36b4f24241eec655c63dabefcd24e4ce1796ee75050a7",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-reason__rubiks__dstar3__batch_metrics.csv",
+   "sha256": "325d86e4e814fa0d2826217295dce932a91f630c6159f0d978e983524bf8f687",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-reason__rubiks__dstar4__batch_metrics.csv",
+   "sha256": "203232de91a30f37f4e41aac6dd04a3837361e1a57f084e6285240394e6ab5ad",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-reason__rubiks__dstar5__batch_metrics.csv",
+   "sha256": "bb9b8d5dbdf91a0b8e86f5c187e8802bb8e6b270b97fd1081273bf30ea2312b2",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-reason__rubiks__dstar6__batch_metrics.csv",
+   "sha256": "c9fea153a63ef9cd35219b1cb72d164f468cae5df7a66156e08ffb4d8aa41bcf",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-reason__rubiks__dstar7__batch_metrics.csv",
+   "sha256": "067bc9148ee730195b056406173fd6a3d0e9d6ad690a619583266df0aa77a52d",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/nominal_runs/gpt55-reason__rubiks__dstar8__batch_metrics.csv",
+   "sha256": "35be276495aabc2ef8adb119d854e8adf500d5051f817bbc22179825c0657dc5",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  }
+ ],
+ "excluded_trials_api_error": [],
+ "frozen_plan": {
+  "file": "ANALYSIS_PLAN_FROZEN.md (v1.7.1, included verbatim; git tag v1.7.1-freeze)",
+  "sha256": "27cce48b1b565c92d2081609b147975c2278ab7eb6981e4866ad1a4a613f79c9",
+  "note": "immutable deposit made before the first trial; file title reads v1.7 (the v1.7.1 amendment updated only the change log); post-collection deviations in DEVIATIONS.md"
+ },
+ "confirmatory_gate": {
+  "status": "passed",
+  "identity": {
+   "provider": "openai",
+   "run_config_hash": "ce940593d9dd4a6b0887abccbe31ae381738ee88ec88defa94f23175d1796946",
+   "schedule_hash": "fd2d98bc19145d78cd01bd6d15d026b0c750bd212053a5be39c7e04cc1096949",
+   "echo": "openai/gpt-5.5",
+   "model_id": "openai/gpt-5.5-20260423",
+   "timeout_rows": [
+    "gpt55-reason/rubiksnom-d05-i011",
+    "gpt55-reason/rubiksnom-d06-i011"
+   ],
+   "run_config": {
+    "model": "openai/gpt-5.5-20260423",
+    "preflight_sha256": "0123d90baff869d1bd2f91a337caa92aafda314ef41fc87309d2b892e97f0a2e",
+    "provider_order": [
+     "openai"
+    ],
+    "require_parameters": true,
+    "allow_fallbacks": false,
+    "base_effort": "none",
+    "reason_effort": "medium",
+    "temperature": null,
+    "max_tokens": 32000,
+    "trial_timeout": 600,
+    "manifest_sha256": "b316e1957b68767216f848b1c0ef0b2c7db183c798fcf786063710964415db64",
+    "schedule_sha256": "fd2d98bc19145d78cd01bd6d15d026b0c750bd212053a5be39c7e04cc1096949"
+   },
+   "manifest_sha256": "b316e1957b68767216f848b1c0ef0b2c7db183c798fcf786063710964415db64",
+   "schedule_sha256": "fd2d98bc19145d78cd01bd6d15d026b0c750bd212053a5be39c7e04cc1096949",
+   "preflight": {
+    "timestamp_utc": "2026-07-30T12:59:58+00:00",
+    "model": "openai/gpt-5.5-20260423",
+    "verdict": "ok"
+   }
+  },
+  "problems": []
+ },
+ "estimand": "scramble process (draws with replacement); resampling by instance, stratified by nominal length; unique-state view is a labelled sensitivity analysis",
+ "primary_test": "per arm: logistic success ~ collapsed + nominal_length over lengths 6-8, LR chi2(1) on the collapsed coefficient, process-bootstrap CI on the odds ratio"
+}

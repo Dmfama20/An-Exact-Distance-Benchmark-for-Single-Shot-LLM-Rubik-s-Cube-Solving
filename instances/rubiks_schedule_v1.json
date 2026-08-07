@@ -1,0 +1,2817 @@
+{
+ "version": "rubiks-schedule-v1",
+ "seed": 20260726,
+ "manifest_sha256": "c9fd0c6652e289c01565288326c0ba81e7cecec9603816e19e9d173608c9c044",
+ "n_blocks": 468,
+ "policy": "all (depth, instance) blocks in one seeded random order; within each block both arms run back-to-back in the recorded first_arm order",
+ "blocks": [
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i033",
+   "block": 1,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i005",
+   "block": 2,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i018",
+   "block": 3,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i002",
+   "block": 4,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i041",
+   "block": 5,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i003",
+   "block": 6,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i045",
+   "block": 7,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i035",
+   "block": 8,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i011",
+   "block": 9,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i011",
+   "block": 10,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i012",
+   "block": 11,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i038",
+   "block": 12,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i037",
+   "block": 13,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i028",
+   "block": 14,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i047",
+   "block": 15,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i019",
+   "block": 16,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i045",
+   "block": 17,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i047",
+   "block": 18,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i021",
+   "block": 19,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i030",
+   "block": 20,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i037",
+   "block": 21,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i029",
+   "block": 22,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i037",
+   "block": 23,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i044",
+   "block": 24,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i038",
+   "block": 25,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i015",
+   "block": 26,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i030",
+   "block": 27,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i027",
+   "block": 28,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i025",
+   "block": 29,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i030",
+   "block": 30,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i036",
+   "block": 31,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i007",
+   "block": 32,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i021",
+   "block": 33,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i020",
+   "block": 34,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i005",
+   "block": 35,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i008",
+   "block": 36,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i028",
+   "block": 37,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i032",
+   "block": 38,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i007",
+   "block": 39,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i031",
+   "block": 40,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i035",
+   "block": 41,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i037",
+   "block": 42,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i043",
+   "block": 43,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i036",
+   "block": 44,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i014",
+   "block": 45,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i011",
+   "block": 46,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i023",
+   "block": 47,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i010",
+   "block": 48,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i006",
+   "block": 49,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i003",
+   "block": 50,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i011",
+   "block": 51,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i028",
+   "block": 52,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i044",
+   "block": 53,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i016",
+   "block": 54,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i008",
+   "block": 55,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i042",
+   "block": 56,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i034",
+   "block": 57,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i004",
+   "block": 58,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i020",
+   "block": 59,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i007",
+   "block": 60,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i009",
+   "block": 61,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i021",
+   "block": 62,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i042",
+   "block": 63,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i006",
+   "block": 64,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i017",
+   "block": 65,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i025",
+   "block": 66,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i046",
+   "block": 67,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i016",
+   "block": 68,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i015",
+   "block": 69,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i008",
+   "block": 70,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i044",
+   "block": 71,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i013",
+   "block": 72,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i030",
+   "block": 73,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i044",
+   "block": 74,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i048",
+   "block": 75,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i013",
+   "block": 76,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i005",
+   "block": 77,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i012",
+   "block": 78,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i032",
+   "block": 79,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i017",
+   "block": 80,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i029",
+   "block": 81,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i050",
+   "block": 82,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i037",
+   "block": 83,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i026",
+   "block": 84,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i013",
+   "block": 85,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i039",
+   "block": 86,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i023",
+   "block": 87,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i015",
+   "block": 88,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i012",
+   "block": 89,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i017",
+   "block": 90,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i028",
+   "block": 91,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i006",
+   "block": 92,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i047",
+   "block": 93,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i030",
+   "block": 94,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i033",
+   "block": 95,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i010",
+   "block": 96,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i049",
+   "block": 97,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i034",
+   "block": 98,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i010",
+   "block": 99,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i012",
+   "block": 100,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i035",
+   "block": 101,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i025",
+   "block": 102,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i041",
+   "block": 103,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i028",
+   "block": 104,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i017",
+   "block": 105,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i008",
+   "block": 106,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i039",
+   "block": 107,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i014",
+   "block": 108,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i019",
+   "block": 109,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i004",
+   "block": 110,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i049",
+   "block": 111,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i046",
+   "block": 112,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i036",
+   "block": 113,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i030",
+   "block": 114,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i026",
+   "block": 115,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i026",
+   "block": 116,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i043",
+   "block": 117,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i017",
+   "block": 118,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i024",
+   "block": 119,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i043",
+   "block": 120,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i029",
+   "block": 121,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i035",
+   "block": 122,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i033",
+   "block": 123,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i049",
+   "block": 124,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i016",
+   "block": 125,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i043",
+   "block": 126,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i041",
+   "block": 127,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i019",
+   "block": 128,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i019",
+   "block": 129,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i042",
+   "block": 130,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i043",
+   "block": 131,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i029",
+   "block": 132,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i049",
+   "block": 133,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i036",
+   "block": 134,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i044",
+   "block": 135,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i018",
+   "block": 136,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i005",
+   "block": 137,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i006",
+   "block": 138,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i004",
+   "block": 139,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i047",
+   "block": 140,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i024",
+   "block": 141,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i021",
+   "block": 142,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i033",
+   "block": 143,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i017",
+   "block": 144,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i040",
+   "block": 145,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i050",
+   "block": 146,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i009",
+   "block": 147,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i048",
+   "block": 148,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i048",
+   "block": 149,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i023",
+   "block": 150,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i011",
+   "block": 151,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i029",
+   "block": 152,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i036",
+   "block": 153,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i018",
+   "block": 154,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i013",
+   "block": 155,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i012",
+   "block": 156,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i015",
+   "block": 157,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i024",
+   "block": 158,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i049",
+   "block": 159,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i013",
+   "block": 160,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i020",
+   "block": 161,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i002",
+   "block": 162,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i048",
+   "block": 163,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i022",
+   "block": 164,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i007",
+   "block": 165,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i027",
+   "block": 166,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i034",
+   "block": 167,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i043",
+   "block": 168,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i035",
+   "block": 169,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i038",
+   "block": 170,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i007",
+   "block": 171,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i014",
+   "block": 172,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i023",
+   "block": 173,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i044",
+   "block": 174,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i015",
+   "block": 175,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i023",
+   "block": 176,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i046",
+   "block": 177,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i012",
+   "block": 178,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i048",
+   "block": 179,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i050",
+   "block": 180,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i034",
+   "block": 181,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i025",
+   "block": 182,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i050",
+   "block": 183,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i042",
+   "block": 184,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i043",
+   "block": 185,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i006",
+   "block": 186,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i024",
+   "block": 187,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i002",
+   "block": 188,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i003",
+   "block": 189,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i021",
+   "block": 190,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i010",
+   "block": 191,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i014",
+   "block": 192,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i045",
+   "block": 193,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i021",
+   "block": 194,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i028",
+   "block": 195,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i030",
+   "block": 196,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i010",
+   "block": 197,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i002",
+   "block": 198,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i031",
+   "block": 199,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i047",
+   "block": 200,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i005",
+   "block": 201,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i008",
+   "block": 202,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i001",
+   "block": 203,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i031",
+   "block": 204,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i039",
+   "block": 205,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i005",
+   "block": 206,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i017",
+   "block": 207,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i010",
+   "block": 208,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i041",
+   "block": 209,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i025",
+   "block": 210,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i024",
+   "block": 211,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i007",
+   "block": 212,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i014",
+   "block": 213,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i032",
+   "block": 214,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i019",
+   "block": 215,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i029",
+   "block": 216,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i009",
+   "block": 217,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i036",
+   "block": 218,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i026",
+   "block": 219,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i026",
+   "block": 220,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i039",
+   "block": 221,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i002",
+   "block": 222,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i027",
+   "block": 223,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i019",
+   "block": 224,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i034",
+   "block": 225,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i008",
+   "block": 226,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i034",
+   "block": 227,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i010",
+   "block": 228,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i005",
+   "block": 229,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i032",
+   "block": 230,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i001",
+   "block": 231,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i001",
+   "block": 232,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i040",
+   "block": 233,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i040",
+   "block": 234,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i036",
+   "block": 235,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i016",
+   "block": 236,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i022",
+   "block": 237,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i001",
+   "block": 238,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i016",
+   "block": 239,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i036",
+   "block": 240,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i004",
+   "block": 241,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i006",
+   "block": 242,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i013",
+   "block": 243,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i038",
+   "block": 244,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i042",
+   "block": 245,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i011",
+   "block": 246,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i041",
+   "block": 247,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i047",
+   "block": 248,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i001",
+   "block": 249,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i016",
+   "block": 250,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i006",
+   "block": 251,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i022",
+   "block": 252,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i029",
+   "block": 253,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i013",
+   "block": 254,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i011",
+   "block": 255,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i017",
+   "block": 256,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i035",
+   "block": 257,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i031",
+   "block": 258,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i050",
+   "block": 259,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i045",
+   "block": 260,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i049",
+   "block": 261,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i019",
+   "block": 262,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i018",
+   "block": 263,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i007",
+   "block": 264,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i047",
+   "block": 265,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i038",
+   "block": 266,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i001",
+   "block": 267,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i035",
+   "block": 268,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i040",
+   "block": 269,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i021",
+   "block": 270,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i042",
+   "block": 271,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i009",
+   "block": 272,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i031",
+   "block": 273,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i003",
+   "block": 274,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i040",
+   "block": 275,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i020",
+   "block": 276,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i008",
+   "block": 277,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i041",
+   "block": 278,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i048",
+   "block": 279,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i048",
+   "block": 280,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i020",
+   "block": 281,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i040",
+   "block": 282,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i041",
+   "block": 283,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i016",
+   "block": 284,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i017",
+   "block": 285,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i023",
+   "block": 286,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i009",
+   "block": 287,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i046",
+   "block": 288,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i010",
+   "block": 289,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i002",
+   "block": 290,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i049",
+   "block": 291,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i012",
+   "block": 292,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i048",
+   "block": 293,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i032",
+   "block": 294,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i036",
+   "block": 295,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i015",
+   "block": 296,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i033",
+   "block": 297,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i027",
+   "block": 298,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i043",
+   "block": 299,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i037",
+   "block": 300,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i044",
+   "block": 301,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i027",
+   "block": 302,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i023",
+   "block": 303,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i046",
+   "block": 304,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i020",
+   "block": 305,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i027",
+   "block": 306,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i018",
+   "block": 307,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i005",
+   "block": 308,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i005",
+   "block": 309,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i018",
+   "block": 310,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i026",
+   "block": 311,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i012",
+   "block": 312,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i008",
+   "block": 313,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i007",
+   "block": 314,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i024",
+   "block": 315,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i038",
+   "block": 316,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i008",
+   "block": 317,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i027",
+   "block": 318,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i003",
+   "block": 319,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i044",
+   "block": 320,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i006",
+   "block": 321,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i001",
+   "block": 322,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i041",
+   "block": 323,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i042",
+   "block": 324,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i045",
+   "block": 325,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i032",
+   "block": 326,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i046",
+   "block": 327,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i029",
+   "block": 328,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i040",
+   "block": 329,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i016",
+   "block": 330,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i001",
+   "block": 331,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i024",
+   "block": 332,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i039",
+   "block": 333,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i039",
+   "block": 334,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i025",
+   "block": 335,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i033",
+   "block": 336,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i024",
+   "block": 337,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i019",
+   "block": 338,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i049",
+   "block": 339,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i038",
+   "block": 340,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i014",
+   "block": 341,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i002",
+   "block": 342,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i037",
+   "block": 343,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i003",
+   "block": 344,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i005",
+   "block": 345,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i004",
+   "block": 346,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i009",
+   "block": 347,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i020",
+   "block": 348,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i028",
+   "block": 349,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i003",
+   "block": 350,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i046",
+   "block": 351,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i030",
+   "block": 352,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i014",
+   "block": 353,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i013",
+   "block": 354,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i039",
+   "block": 355,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i028",
+   "block": 356,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i034",
+   "block": 357,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i025",
+   "block": 358,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i022",
+   "block": 359,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i045",
+   "block": 360,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i021",
+   "block": 361,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i011",
+   "block": 362,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i038",
+   "block": 363,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i011",
+   "block": 364,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i013",
+   "block": 365,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i031",
+   "block": 366,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i022",
+   "block": 367,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i050",
+   "block": 368,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i046",
+   "block": 369,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i004",
+   "block": 370,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i022",
+   "block": 371,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i029",
+   "block": 372,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i012",
+   "block": 373,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i023",
+   "block": 374,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i007",
+   "block": 375,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i025",
+   "block": 376,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i033",
+   "block": 377,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i004",
+   "block": 378,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i009",
+   "block": 379,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i045",
+   "block": 380,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i016",
+   "block": 381,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i007",
+   "block": 382,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i032",
+   "block": 383,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i035",
+   "block": 384,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i040",
+   "block": 385,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i003",
+   "block": 386,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i008",
+   "block": 387,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i045",
+   "block": 388,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i031",
+   "block": 389,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i037",
+   "block": 390,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i002",
+   "block": 391,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i015",
+   "block": 392,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i018",
+   "block": 393,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i002",
+   "block": 394,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i044",
+   "block": 395,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i014",
+   "block": 396,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i037",
+   "block": 397,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i021",
+   "block": 398,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i017",
+   "block": 399,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i018",
+   "block": 400,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i033",
+   "block": 401,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i004",
+   "block": 402,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i045",
+   "block": 403,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i003",
+   "block": 404,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i022",
+   "block": 405,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i042",
+   "block": 406,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i004",
+   "block": 407,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i033",
+   "block": 408,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i014",
+   "block": 409,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i048",
+   "block": 410,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i006",
+   "block": 411,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i047",
+   "block": 412,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i032",
+   "block": 413,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i026",
+   "block": 414,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i001",
+   "block": 415,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i031",
+   "block": 416,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i032",
+   "block": 417,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i010",
+   "block": 418,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i035",
+   "block": 419,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i022",
+   "block": 420,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i020",
+   "block": 421,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i001",
+   "block": 422,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i038",
+   "block": 423,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 9,
+   "instance_id": "rubiks-d09-i012",
+   "block": 424,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 1,
+   "instance_id": "rubiks-d01-i011",
+   "block": 425,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i009",
+   "block": 426,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i002",
+   "block": 427,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i042",
+   "block": 428,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i014",
+   "block": 429,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i027",
+   "block": 430,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i049",
+   "block": 431,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i031",
+   "block": 432,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i024",
+   "block": 433,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i016",
+   "block": 434,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i041",
+   "block": 435,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i027",
+   "block": 436,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i050",
+   "block": 437,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i047",
+   "block": 438,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i006",
+   "block": 439,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i034",
+   "block": 440,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 10,
+   "instance_id": "rubiks-d10-i020",
+   "block": 441,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i018",
+   "block": 442,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i015",
+   "block": 443,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i013",
+   "block": 444,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i025",
+   "block": 445,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i009",
+   "block": 446,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i022",
+   "block": 447,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i050",
+   "block": 448,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i010",
+   "block": 449,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 7,
+   "instance_id": "rubiks-d07-i023",
+   "block": 450,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i039",
+   "block": 451,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i050",
+   "block": 452,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i040",
+   "block": 453,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i028",
+   "block": 454,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i015",
+   "block": 455,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i026",
+   "block": 456,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i015",
+   "block": 457,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 4,
+   "instance_id": "rubiks-d04-i019",
+   "block": 458,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i030",
+   "block": 459,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i026",
+   "block": 460,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i043",
+   "block": 461,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i004",
+   "block": 462,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 3,
+   "instance_id": "rubiks-d03-i046",
+   "block": 463,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i009",
+   "block": 464,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 5,
+   "instance_id": "rubiks-d05-i018",
+   "block": 465,
+   "first_arm": "base"
+  },
+  {
+   "d_star": 8,
+   "instance_id": "rubiks-d08-i039",
+   "block": 466,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 6,
+   "instance_id": "rubiks-d06-i003",
+   "block": 467,
+   "first_arm": "reason"
+  },
+  {
+   "d_star": 2,
+   "instance_id": "rubiks-d02-i034",
+   "block": 468,
+   "first_arm": "base"
+  }
+ ]
+}

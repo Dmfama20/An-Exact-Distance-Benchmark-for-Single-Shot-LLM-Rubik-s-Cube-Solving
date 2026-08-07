@@ -1,0 +1,21 @@
+Test 19 — nominal scramble length=8
+Verified optimal distance d*=8
+Instance: rubiksnom-d08-i019
+Model: openai/gpt-5.5-20260423
+Parse mode: strict
+======================================================================
+
+--- Initial cube state (JSON, for exact replay) ---
+{"up": [["O", "G", "B"], ["W", "W", "W"], ["G", "R", "Y"]], "left": [["G", "R", "W"], ["G", "O", "W"], ["B", "W", "W"]], "front": [["O", "G", "R"], ["O", "G", "O"], ["O", "B", "B"]], "right": [["G", "G", "W"], ["B", "R", "R"], ["O", "O", "G"]], "back": [["R", "O", "Y"], ["B", "B", "Y"], ["W", "R", "R"]], "down": [["B", "Y", "Y"], ["B", "Y", "Y"], ["Y", "Y", "R"]]}
+
+--- Model response ---
+R U2 F' L D R2 U' B L2 F R' U2 L' B2 U F2 D' R B' U' R2 D F' L2 U' B R' D2 F U L' B2 R U' F2 D R2 B' L U2 F' R' D' L2 B U F' D2 R U' L' F2 B' D R2 U2 F' L B2 R' U
+
+
+--- Parsed moves ---
+R U2 F' L D R2 U' B L2 F R' U2 L' B2 U F2 D' R B' U' R2 D F' L2 U' B R' D2 F U L' B2 R U' F2 D R2 B' L U2 F' R' D' L2 B U F' D2 R U' L' F2 B' D R2 U2 F' L B2 R' U
+
+======================================================================
+Success: False
+Sticker-match fraction (post-solution): 0.241
+Time: 114.7s

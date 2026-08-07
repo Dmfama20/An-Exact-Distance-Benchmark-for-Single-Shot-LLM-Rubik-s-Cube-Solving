@@ -1,0 +1,52 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- Regenerable solver caches (rebuilt from data/rubiks_move_perms.json,
+#     master seed 42; count-verified against the published HTM ball) ---
+data/rubiks_depth_table_d*.bin
+data/*.cache
+
+# --- Build/release artifacts ---
+dist/
+build/
+*.zip
+
+# --- LaTeX build products (NOTE: no bare *.log rule -- the audit_logs/
+#     *.log files are reproducibility data and must stay tracked) ---
+*.aux
+*.bcf
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# --- OS / editor cruft ---
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# --- Secrets (never commit API keys) ---
+.env
+.env.*
+*.pem
+*.key
+credentials*

@@ -1,0 +1,32 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements-lock.txt
+      - name: Solver validation (published HTM counts, differential vs magiccube)
+        run: python tests/test_rubiks_distance.py --table-depth 4 --diff-sequences 100
+      - name: End-to-end pipeline with stubbed LLM (no API access)
+        run: python tests/test_pipeline_stub.py
+      - name: Analysis pipeline vs synthetic ground truth
+        run: python tests/test_analyse_dstar.py
+      - name: Module B analysis vs synthetic ground truth
+        run: python tests/test_analyse_nominal.py
+      - name: Adversarial gate battery (fail-closed proof)
+        run: python tests/test_gate_adversarial.py
+      - name: Driver pair-resume quarantine rule
+        run: python tests/test_pair_resume.py
+      - name: Independent distance certification (archival audit, ~1 min)
+        run: |
+          pip install -r requirements-audit.txt
+          python scripts/independent_distance_check.py

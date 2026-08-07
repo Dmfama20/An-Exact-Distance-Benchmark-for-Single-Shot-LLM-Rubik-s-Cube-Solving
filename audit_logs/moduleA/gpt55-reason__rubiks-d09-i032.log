@@ -1,0 +1,19 @@
+Test 32 — verified optimal distance d*=9
+Instance: rubiks-d09-i032
+Model: openai/gpt-5.5-20260423
+Parse mode: strict
+======================================================================
+
+--- Initial cube state (JSON, for exact replay) ---
+{"up": [["W", "O", "O"], ["Y", "W", "R"], ["B", "B", "B"]], "left": [["R", "R", "R"], ["R", "O", "O"], ["Y", "B", "O"]], "front": [["Y", "O", "O"], ["G", "G", "W"], ["G", "G", "R"]], "right": [["W", "B", "G"], ["R", "R", "O"], ["Y", "Y", "R"]], "back": [["W", "W", "G"], ["Y", "B", "G"], ["W", "Y", "O"]], "down": [["Y", "W", "G"], ["W", "Y", "G"], ["B", "B", "B"]]}
+
+--- Model response ---
+U2 R' D' R F2 U R2 B2 L2 D' F2 R2 U' B2 U R2 B' L' U' R' B2 D F'
+
+--- Parsed moves ---
+U2 R' D' R F2 U R2 B2 L2 D' F2 R2 U' B2 U R2 B' L' U' R' B2 D F'
+
+======================================================================
+Success: False
+Sticker-match fraction (post-solution): 0.278
+Time: 142.3s

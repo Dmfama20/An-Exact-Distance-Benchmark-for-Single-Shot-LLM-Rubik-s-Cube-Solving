@@ -1,0 +1,19 @@
+{
+ "run_config": {
+  "model": "openai/gpt-5.5-20260423",
+  "preflight_sha256": "0123d90baff869d1bd2f91a337caa92aafda314ef41fc87309d2b892e97f0a2e",
+  "provider_order": [
+   "openai"
+  ],
+  "require_parameters": true,
+  "allow_fallbacks": false,
+  "base_effort": "none",
+  "reason_effort": "medium",
+  "temperature": null,
+  "max_tokens": 32000,
+  "trial_timeout": 600,
+  "manifest_sha256": "b316e1957b68767216f848b1c0ef0b2c7db183c798fcf786063710964415db64",
+  "schedule_sha256": "fd2d98bc19145d78cd01bd6d15d026b0c750bd212053a5be39c7e04cc1096949"
+ },
+ "run_config_hash": "ce940593d9dd4a6b0887abccbe31ae381738ee88ec88defa94f23175d1796946"
+}

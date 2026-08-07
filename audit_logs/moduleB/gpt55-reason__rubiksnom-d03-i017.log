@@ -1,0 +1,20 @@
+Test 17 — nominal scramble length=3
+Verified optimal distance d*=3
+Instance: rubiksnom-d03-i017
+Model: openai/gpt-5.5-20260423
+Parse mode: strict
+======================================================================
+
+--- Initial cube state (JSON, for exact replay) ---
+{"up": [["Y", "Y", "Y"], ["W", "W", "W"], ["G", "G", "G"]], "left": [["G", "B", "W"], ["O", "O", "O"], ["O", "O", "O"]], "front": [["O", "O", "O"], ["Y", "G", "B"], ["Y", "G", "B"]], "right": [["Y", "G", "B"], ["R", "R", "R"], ["R", "R", "R"]], "back": [["R", "R", "R"], ["G", "B", "W"], ["G", "B", "W"]], "down": [["B", "Y", "W"], ["B", "Y", "W"], ["B", "Y", "W"]]}
+
+--- Model response ---
+U R2 L
+
+--- Parsed moves ---
+U R2 L
+
+======================================================================
+Success: True
+Sticker-match fraction (post-solution): 1.000
+Time: 108.6s

@@ -1,0 +1,3 @@
+arm,bootstrap_converged,confirmatory,estimable,midpoint_nominal,midpoint_verified,note,overstatement,shift_ci_hi,shift_ci_lo,view
+gpt55-base,,True,False,,,midpoint not identifiable (frozen rule: beta <= 0 or fit failure),,,,process
+gpt55-reason,1000,True,True,2.964,2.911,,0.054,0.1,0.013,process

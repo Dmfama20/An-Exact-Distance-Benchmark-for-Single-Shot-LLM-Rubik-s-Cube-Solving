@@ -1,0 +1,20 @@
+Test 25 — verified optimal distance d*=6
+Instance: rubiks-d06-i025
+Model: openai/gpt-5.5-20260423
+Parse mode: none
+======================================================================
+
+--- Initial cube state (JSON, for exact replay) ---
+{"up": [["W", "O", "G"], ["B", "W", "Y"], ["B", "W", "Y"]], "left": [["B", "Y", "Y"], ["B", "O", "R"], ["B", "O", "B"]], "front": [["O", "G", "G"], ["G", "G", "W"], ["W", "R", "R"]], "right": [["O", "O", "W"], ["O", "R", "W"], ["G", "G", "G"]], "back": [["O", "B", "R"], ["B", "B", "R"], ["R", "R", "R"]], "down": [["O", "W", "W"], ["G", "Y", "Y"], ["Y", "Y", "Y"]]}
+
+--- Model response ---
+This cube state is not solvable as a legal 3×3×3 Rubik’s Cube state under the stated colour scheme and Singmaster face convention. It has an impossible edge-orientation parity: an odd number of flipped edges, which cannot occur from legal face turns.
+
+NO SOLUTION
+
+--- Parsed moves ---
+(none)
+
+======================================================================
+Success: False
+Time: 220.3s

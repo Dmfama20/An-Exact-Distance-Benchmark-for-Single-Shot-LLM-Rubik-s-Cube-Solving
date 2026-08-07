@@ -1,0 +1,5 @@
+true_OR,sims,power_at_holm_alpha,not_estimable_rate,mean_bootstrap_convergence,median_OR_CI_width
+1.0,500,0.012,0.004,0.923,2.9
+2.0,500,0.154,0.004,0.967,5.4
+4.0,500,0.624,0.0,0.982,13.1
+8.0,500,0.932,0.002,0.978,37.5

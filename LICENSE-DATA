@@ -1,0 +1,22 @@
+Data License — CC BY 4.0
+
+The datasets in this repository — in particular the instance manifests
+(instances/rubiks_dstar_manifest_v1.json,
+instances/rubiks_nominal_manifest_v1.json), the execution schedules,
+the random-sequence baseline, the power-simulation results, and any
+released trial-level result data — are licensed under the Creative
+Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt this data for any purpose, including
+commercially, under the following terms:
+
+  Attribution — You must give appropriate credit (cite the accompanying
+  paper and this repository), provide a link to the license, and
+  indicate if changes were made.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 The Benchmark Authors
+[NOTE: replace with the real author(s) / institution for the
+de-anonymized public release.]

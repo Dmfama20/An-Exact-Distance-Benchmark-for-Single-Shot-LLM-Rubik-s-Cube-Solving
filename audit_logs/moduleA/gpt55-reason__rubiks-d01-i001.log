@@ -1,0 +1,21 @@
+Test 1 — verified optimal distance d*=1
+Instance: rubiks-d01-i001
+Model: openai/gpt-5.5-20260423
+Parse mode: strict
+======================================================================
+
+--- Initial cube state (JSON, for exact replay) ---
+{"up": [["R", "R", "R"], ["W", "W", "W"], ["W", "W", "W"]], "left": [["W", "O", "O"], ["W", "O", "O"], ["W", "O", "O"]], "front": [["G", "G", "G"], ["G", "G", "G"], ["G", "G", "G"]], "right": [["R", "R", "Y"], ["R", "R", "Y"], ["R", "R", "Y"]], "back": [["B", "B", "B"], ["B", "B", "B"], ["B", "B", "B"]], "down": [["Y", "Y", "Y"], ["Y", "Y", "Y"], ["O", "O", "O"]]}
+
+--- Model response ---
+The cube is one back-face clockwise turn away from solved, so the inverse solves it.
+
+B'
+
+--- Parsed moves ---
+B'
+
+======================================================================
+Success: True
+Sticker-match fraction (post-solution): 1.000
+Time: 25.0s

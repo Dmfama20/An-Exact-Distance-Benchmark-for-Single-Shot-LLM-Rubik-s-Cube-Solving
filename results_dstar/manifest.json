@@ -1,0 +1,219 @@
+{
+ "generated_utc": "2026-08-03T03:53:59+00:00",
+ "analysis_plan": {
+  "file": "ANALYSIS_PLAN.md",
+  "sha256": "ee79cf9a5a061732d2b1e7a5a6935b4c5c559ae74c0fca46b0ba1cb15091eb2e"
+ },
+ "runs_dir": "logs/dstar_runs",
+ "inputs": [
+  {
+   "file": "logs/dstar_runs/gpt55-base__rubiks__dstar10__batch_metrics.csv",
+   "sha256": "10632248df649abdaad492d298565f8222de32c106e91551f4ac7dbc8ac7e27a",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-base__rubiks__dstar1__batch_metrics.csv",
+   "sha256": "c6d1fbba7037335f1ef6ae174abbb221ca7c13c4d0af97c0d40d4f3b72377d79",
+   "rows_scored": 18,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-base__rubiks__dstar2__batch_metrics.csv",
+   "sha256": "964d506ed0c837c20b77eda0227d8b38f7065d2d97301279e2b432e9050dcbf4",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-base__rubiks__dstar3__batch_metrics.csv",
+   "sha256": "e74d266a35d1d1c5162bb16cdb3f664b8d49a62723a609062e8700ea1c7f25ad",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-base__rubiks__dstar4__batch_metrics.csv",
+   "sha256": "975c9731c6fd2dd312f512abb8ea1f4c932d3a510d4f9e7eb341c5cf726a0559",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-base__rubiks__dstar5__batch_metrics.csv",
+   "sha256": "a6374d3b1a2d5aeb7775ce5f6b4376df12ab128f53ebf3861dea7a0b9d392394",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-base__rubiks__dstar6__batch_metrics.csv",
+   "sha256": "b882edad7296b0b5522e0e92ce898ee607a1a8f2c2267a0d8c71bcecca0073a7",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-base__rubiks__dstar7__batch_metrics.csv",
+   "sha256": "055faaa136e4ab1b68a8aba8d982ab7f17596c0336ca9edcbb1742ae67cef2e0",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-base__rubiks__dstar8__batch_metrics.csv",
+   "sha256": "c92a8920abbaa04a41af9a3ea3fa2af9fceeeef7b0360e017d06afe63d4b6ccd",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-base__rubiks__dstar9__batch_metrics.csv",
+   "sha256": "86b90f5f1556125ab51fcca101046524f17922407380a220e5b0270db4f0be0a",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-reason__rubiks__dstar10__batch_metrics.csv",
+   "sha256": "d9c23f22d0e330091f86a24ebb2d71e21034cd451e8e4c3737ee469edf7b1518",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-reason__rubiks__dstar1__batch_metrics.csv",
+   "sha256": "056ceef37f9ff86413da9311bbf72ef6ff7bb38feb2267f1f072f2f0c40c1e3b",
+   "rows_scored": 18,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-reason__rubiks__dstar2__batch_metrics.csv",
+   "sha256": "dc6b1645161de55b2d86e271d7b72bf43bbccc58b67f6832b24e51ebe4561a3a",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-reason__rubiks__dstar3__batch_metrics.csv",
+   "sha256": "1db0f26d7c676331bb41b33e5c3d1f02dcb705d0e438cbfa633df2fec415423f",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-reason__rubiks__dstar4__batch_metrics.csv",
+   "sha256": "cc7703f0a1ecded6fe92ff314422182dca567f215feeb5363985189ded0f7c3a",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-reason__rubiks__dstar5__batch_metrics.csv",
+   "sha256": "019f05866b070aa46b3b0abcd3c8a5e83a67a2dec5490caead6a82f762c0068d",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-reason__rubiks__dstar6__batch_metrics.csv",
+   "sha256": "b9348f0e7f396ea5deb71ef98ccea24f605444ebc046ba3e40bba304c106df70",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-reason__rubiks__dstar7__batch_metrics.csv",
+   "sha256": "906beeaf58a7cf33e10d01563bc369f436449e0c4f3df79b575c4f343c7a761c",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-reason__rubiks__dstar8__batch_metrics.csv",
+   "sha256": "8ea892d1de6888d5d23d4f1640af2e6320c691e683c3f02b8992320b08092d7b",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  },
+  {
+   "file": "logs/dstar_runs/gpt55-reason__rubiks__dstar9__batch_metrics.csv",
+   "sha256": "5f4fc702ae08cc0813f935414abe190c4d65af66a07ad953648a413491335f8e",
+   "rows_scored": 50,
+   "rows_excluded_api_error": 0
+  }
+ ],
+ "excluded_trials_api_error": [],
+ "frozen_plan": {
+  "file": "ANALYSIS_PLAN_FROZEN.md (v1.7.1, included verbatim; git tag v1.7.1-freeze)",
+  "sha256": "27cce48b1b565c92d2081609b147975c2278ab7eb6981e4866ad1a4a613f79c9",
+  "note": "immutable deposit made before the first trial; file title reads v1.7 (the v1.7.1 amendment updated only the change log); post-collection deviations in DEVIATIONS.md"
+ },
+ "confirmatory_gate": {
+  "status": "passed",
+  "expected_n": 50,
+  "manifest_validated": true,
+  "schedule_validated": true,
+  "identity": {
+   "provider": "openai",
+   "run_config_hash": "e9071f2a594643f8fc862883cfde71f07c1c5fe96af098ed98ee53feb21ce6de",
+   "schedule_hash": "3265e31dff3daa4149214ebb825fbb42c0a0cbe2578a35986c88aa15fdabf961",
+   "echo": "openai/gpt-5.5",
+   "model_id": "openai/gpt-5.5-20260423",
+   "timeout_rows": [
+    "gpt55-reason/rubiks-d05-i007",
+    "gpt55-reason/rubiks-d06-i046",
+    "gpt55-reason/rubiks-d07-i013"
+   ],
+   "run_config": {
+    "model": "openai/gpt-5.5-20260423",
+    "preflight_sha256": "a7b21579859aeb6ac3b3a9aab13ecffd117a27f2d2aa85e58b9f645b7ac783ac",
+    "provider_order": [
+     "openai"
+    ],
+    "require_parameters": true,
+    "allow_fallbacks": false,
+    "base_effort": "none",
+    "reason_effort": "medium",
+    "temperature": null,
+    "max_tokens": 32000,
+    "trial_timeout": 600,
+    "manifest_sha256": "c9fd0c6652e289c01565288326c0ba81e7cecec9603816e19e9d173608c9c044",
+    "schedule_sha256": "3265e31dff3daa4149214ebb825fbb42c0a0cbe2578a35986c88aa15fdabf961"
+   },
+   "manifest_sha256": "c9fd0c6652e289c01565288326c0ba81e7cecec9603816e19e9d173608c9c044",
+   "schedule_sha256": "3265e31dff3daa4149214ebb825fbb42c0a0cbe2578a35986c88aa15fdabf961",
+   "preflight": {
+    "timestamp_utc": "2026-07-29T08:12:13+00:00",
+    "model": "openai/gpt-5.5-20260423",
+    "verdict": "ok"
+   }
+  },
+  "problems": []
+ },
+ "tests": {
+  "primary": "global paired mode effect, exact McNemar on discordants pooled over d*=2..8",
+  "secondary_family": [
+   "gpt55-reason vs gpt55-base @ d*=2",
+   "gpt55-reason vs gpt55-base @ d*=3",
+   "gpt55-reason vs gpt55-base @ d*=4",
+   "gpt55-reason vs gpt55-base @ d*=5",
+   "gpt55-reason vs gpt55-base @ d*=6",
+   "gpt55-reason vs gpt55-base @ d*=7",
+   "gpt55-reason vs gpt55-base @ d*=8"
+  ],
+  "correction": "holm (within the secondary family)",
+  "alpha": 0.05,
+  "h3_inference": "conditional logistic on discordant pairs, LR chi2(1); hierarchical: interpret only if the primary test rejects",
+  "equivalence": "TOST via 90% Newcombe CI, margin +/-15pp"
+ },
+ "trend": {
+  "depths": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "bootstrap_resamples": 1000,
+  "bootstrap_seed": 20260724,
+  "role": "descriptive"
+ },
+ "outputs": {
+  "pass1_dstar.csv": "per-cell pass@1, Wilson CIs, failure modes",
+  "h1_global.csv": "PRIMARY pooled paired test (confirmatory)",
+  "h1_mcnemar.csv": "secondary per-depth McNemar family",
+  "h2_trend.csv": "logistic depth trends (descriptive) + linear-vs-categorical form check",
+  "h3_interaction.csv": "mode x depth interaction: conditional logistic on discordant pairs (LR chi2(1); raw counts if separated)",
+  "fit_diagnostics.csv": "observed vs fitted pass@1 per cell",
+  "failure_modes.csv": "frozen failure taxonomy counts",
+  "pairing_audit.csv": "instance-pairing check per depth",
+  "exploratory.csv": "solution lengths / tokens / parse modes"
+ }
+}

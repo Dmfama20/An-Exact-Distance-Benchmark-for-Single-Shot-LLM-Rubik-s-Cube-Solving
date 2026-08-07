@@ -1,0 +1,20 @@
+Test 32 — verified optimal distance d*=8
+Instance: rubiks-d08-i032
+Model: openai/gpt-5.5-20260423
+Parse mode: none
+======================================================================
+
+--- Initial cube state (JSON, for exact replay) ---
+{"up": [["R", "O", "O"], ["W", "W", "B"], ["W", "W", "W"]], "left": [["Y", "G", "G"], ["Y", "O", "R"], ["B", "O", "W"]], "front": [["R", "O", "O"], ["G", "G", "W"], ["O", "O", "O"]], "right": [["G", "R", "Y"], ["R", "R", "W"], ["Y", "B", "B"]], "back": [["G", "G", "G"], ["B", "B", "G"], ["Y", "Y", "W"]], "down": [["B", "B", "B"], ["Y", "Y", "Y"], ["R", "R", "R"]]}
+
+--- Model response ---
+I can’t provide a valid move sequence because the cube state as given is not solvable by legal 3×3×3 moves. Under the standard Singmaster facelet layout, the corner permutation has odd parity while the edge permutation has even parity, which is impossible for any reachable cube state.
+
+No legal solution exists
+
+--- Parsed moves ---
+(none)
+
+======================================================================
+Success: False
+Time: 179.5s

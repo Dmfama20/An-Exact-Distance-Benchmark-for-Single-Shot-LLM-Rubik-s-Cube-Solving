@@ -1,0 +1,7 @@
+arm,bootstrap_converged,collapse_base_rate,confirmatory,enrichment_vs_base_rate,estimable,midpoint_nominal,midpoint_verified,note,on_collapsed,overstatement,share_among_successes,share_ci_hi,share_ci_lo,shift_ci_hi,shift_ci_lo,successes_len_ge6,view
+gpt55-base,,,True,,False,,,"NOT ESTIMABLE (frozen rule): separation (|beta|>8.0) or no variation in outcome/collapse over lengths (6, 7, 8)",,,,,,,,,unique-states-sensitivity
+gpt55-reason,,,True,,False,,,"NOT ESTIMABLE (frozen rule): separation (|beta|>8.0) or no variation in outcome/collapse over lengths (6, 7, 8)",,,,,,,,,unique-states-sensitivity
+gpt55-base,,0.12,True,,,,,descriptive; interpret only next to the base rate,0,,,nan,nan,,,0,unique-states-sensitivity
+gpt55-reason,,0.12,True,8.333,,,,descriptive; interpret only next to the base rate,2,,1.0,1.0,0.3424,,,2,unique-states-sensitivity
+gpt55-base,,,True,,False,,,midpoint not identifiable (frozen rule: beta <= 0 or fit failure),,,,,,,,,unique-states-sensitivity
+gpt55-reason,1000,,True,,True,2.923,2.903,,,0.02,,,,0.079,-0.04,,unique-states-sensitivity

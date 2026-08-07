@@ -1,0 +1,6 @@
+# Optional archival-audit dependencies (NOT needed to run the
+# benchmark, the study, or the analyses — see requirements-lock.txt).
+# Used only by scripts/independent_distance_check.py, the
+# implementation-independent re-certification of all 868 distance
+# labels (expected runtime ~1 minute; see AUDIT_README.md).
+RubikOptimal==1.1.0

@@ -1,0 +1,3 @@
+arm,collapse_base_rate,confirmatory,enrichment_vs_base_rate,note,on_collapsed,share_among_successes,share_ci_hi,share_ci_lo,successes_len_ge6,view
+gpt55-base,0.12,True,,descriptive; interpret only next to the base rate,0,,nan,nan,0,process
+gpt55-reason,0.12,True,8.333,descriptive; interpret only next to the base rate,2,1.0,1.0,0.3424,2,process

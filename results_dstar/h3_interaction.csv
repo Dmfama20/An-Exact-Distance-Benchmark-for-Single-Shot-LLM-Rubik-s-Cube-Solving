@@ -1,0 +1,2 @@
+model,inference,n_discordant_pairs,per_depth_only_base_only_reason,estimable,confirmatory
+conditional logistic on discordant pairs,NOT ESTIMABLE: all discordant pairs favour one arm (separation); raw counts reported,88,"{""2"": [0, 44], ""3"": [0, 29], ""4"": [0, 10], ""5"": [0, 4], ""6"": [0, 1]}",False,True

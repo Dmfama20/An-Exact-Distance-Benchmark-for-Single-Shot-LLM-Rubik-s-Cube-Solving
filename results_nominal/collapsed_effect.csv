@@ -1,0 +1,3 @@
+arm,confirmatory,estimable,holm_family_size,note,p_holm,significant_after_holm,view
+gpt55-base,True,False,2,"NOT ESTIMABLE (frozen rule): separation (|beta|>8.0) or no variation in outcome/collapse over lengths (6, 7, 8) | entered the Holm family with p=1 (fail-closed family rule)",1.0,False,process
+gpt55-reason,True,False,2,"NOT ESTIMABLE (frozen rule): separation (|beta|>8.0) or no variation in outcome/collapse over lengths (6, 7, 8) | entered the Holm family with p=1 (fail-closed family rule)",1.0,False,process

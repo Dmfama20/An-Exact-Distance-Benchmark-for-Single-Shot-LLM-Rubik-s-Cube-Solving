@@ -1,0 +1,21 @@
+Test 39 — verified optimal distance d*=3
+Instance: rubiks-d03-i039
+Model: openai/gpt-5.5-20260423
+Parse mode: strict
+======================================================================
+
+--- Initial cube state (JSON, for exact replay) ---
+{"up": [["Y", "Y", "Y"], ["W", "W", "W"], ["Y", "Y", "Y"]], "left": [["B", "G", "B"], ["O", "O", "O"], ["O", "O", "O"]], "front": [["R", "R", "R"], ["B", "G", "B"], ["B", "G", "B"]], "right": [["G", "B", "G"], ["R", "R", "R"], ["R", "R", "R"]], "back": [["O", "O", "O"], ["G", "B", "G"], ["G", "B", "G"]], "down": [["W", "Y", "W"], ["W", "Y", "W"], ["W", "Y", "W"]]}
+
+--- Model response ---
+The cube is the result of applying the scramble `R2 L2 U` to the solved state, so the inverse solves it:
+
+U' L2 R2
+
+--- Parsed moves ---
+U' L2 R2
+
+======================================================================
+Success: True
+Sticker-match fraction (post-solution): 1.000
+Time: 107.7s
